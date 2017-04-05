@@ -1,0 +1,2 @@
+# coreid
+CoreID.Me
