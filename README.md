@@ -1,2 +1,3 @@
 # coreid
-CoreID.Me
+
+See: [CoreID.Me](http://CoreID.Me)
