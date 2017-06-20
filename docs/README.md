@@ -15,6 +15,6 @@ The following list of links collects some relevant pre-blockchain CoreID researc
 
 * 2012-2014 CoreID.me initial MIT Research Project: [https://web.archive.org/web/20130423010047/http://coreid.me/](https://web.archive.org/web/20130423010047/http://coreid.me/)
 
-* 2007-2008 CoreID conceptual design and prototype work by Dazza Greenwood of CIVICS.com with Mark Dixon of Sun Microsystems: [https://youtu.be/NaQxypbNzMs](https://youtu.be/NaQxypbNzMs) and DiscoveringIdentity Blog at  [http://www.discoveringidentity.com/tag/core-identity/](http://www.discoveringidentity.com/tag/core-identity/)
+* 2008 CoreID conceptual design and prototype work by Dazza Greenwood of CIVICS.com with Mark Dixon of Sun Microsystems: [https://youtu.be/NaQxypbNzMs](https://youtu.be/NaQxypbNzMs) and DiscoveringIdentity Blog at  [http://www.discoveringidentity.com/tag/core-identity/](http://www.discoveringidentity.com/tag/core-identity/)
 
-
+* 2007 OECD Keynote by Dazza Greenwood outlining unique aspects of individual identifiers related to CoreID: "Context, Terms, Models and Options Digital Identity" at [www.oecd.org/sti/ieconomy/38584991.pdf](http://www.oecd.org/sti/ieconomy/38584991.pdf)
