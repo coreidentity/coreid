@@ -13,5 +13,8 @@ The following list of links collects some relevant pre-blockchain CoreID researc
 
 * Interview: [http://www.zdnet.com/article/the-open-group-and-mit-experts-detail-new-advances-in-id-management-to-help-reduce-cyber-risk/](http://www.zdnet.com/article/the-open-group-and-mit-experts-detail-new-advances-in-id-management-to-help-reduce-cyber-risk/) and [Live PodCast](https://github.com/coreidentity/coreid/blob/master/docs/media/BriefingsDirect-The_Open_Group_and_MIT_Experts_Detail_New_Advances_in_Identity_Management_to_Help_Reduce_Cyber_Risk.mp3?raw=true)
 
-* DiscoveringIdentity Blog: [http://www.discoveringidentity.com/tag/core-identity/](http://www.discoveringidentity.com/tag/core-identity/)
+* 2012-2014 CoreID.me initial MIT Research Project: [https://web.archive.org/web/20130423010047/http://coreid.me/](https://web.archive.org/web/20130423010047/http://coreid.me/)
+
+* 2007-2008 CoreID conceptual design and prototype work by Dazza Greenwood of CIVICS.com with Mark Dixon of Sun Microsystems: [https://youtu.be/NaQxypbNzMs](https://youtu.be/NaQxypbNzMs) and [DiscoveringIdentity Blog: [http://www.discoveringidentity.com/tag/core-identity/](http://www.discoveringidentity.com/tag/core-identity/)
+
 
